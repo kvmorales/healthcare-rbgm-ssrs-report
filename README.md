@@ -34,3 +34,9 @@ Hospitals require accurate reporting to:
 - Rendered Quantity
 - Rendered Date
 - Department
+
+## Performance Optimisations
+- Eliminated scalar UDFs (row-by-row execution)
+- Used set-based JOINs for scalability
+- Parameter-friendly logic for SSRS execution plans
+- Clean ordering for report readability
