@@ -40,3 +40,6 @@ Hospitals require accurate reporting to:
 - Used set-based JOINs for scalability
 - Parameter-friendly logic for SSRS execution plans
 - Clean ordering for report readability
+
+## License
+This project is licensed under the MIT License.
